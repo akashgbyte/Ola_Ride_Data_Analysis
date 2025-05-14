@@ -82,6 +82,6 @@ These queries provided the foundation metrics used in the Power BI dashboard.
 5. Explore the dashboard using filters, slicers, and visuals.
 
 ## Auther
-# Akash Kumar Gupta
+### Akash Kumar Gupta
    
 ---
