@@ -74,7 +74,7 @@ These queries provided the foundation metrics used in the Power BI dashboard.
 ## 📥 How to Use
 
 1. Clone or download this repository.
-2. Load `project.sql` into a PostgreSQL environment and execute to prepare your dataset.
+2. Load `SQL Analysis.sql` into a PostgreSQL environment and execute to prepare your dataset.
 3. Open `ola dashboard.pbit` in Power BI Desktop.
 4. Connect the Power BI file to your PostgreSQL DB or export the SQL output to Excel/CSV and load it into Power BI.
 5. Explore the dashboard using filters, slicers, and visuals.
