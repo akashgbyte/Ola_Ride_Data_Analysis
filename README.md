@@ -69,9 +69,7 @@ These queries provided the foundation metrics used in the Power BI dashboard.
 - 🛑 Personal & Car-related issues were a major driver-side cancellation reason.
 - 🧾 Cash remained the dominant payment method, especially in high-value rides.
 
-## 📸 Dashboard Preview
 
-*(Add screenshots or GIF demo of dashboard here once available)*
 
 ## 📥 How to Use
 
